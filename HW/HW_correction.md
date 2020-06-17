@@ -38,4 +38,19 @@ No Need to expand into rooms (ecadb, acbde)
 9. (20/20)
 10. (29/30)
 11. (45/50)
-
+## HW4 
+1.
+2.
+3.
+4.
+5.
+(d) routing sequence need to be top, bottom, ...
+6.
+7.
+8.
+732000 -> 734000
+9.
+10.
+11.
+a. three types
+12.
